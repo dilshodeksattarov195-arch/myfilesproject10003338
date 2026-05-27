@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesave",
+        "uuid": 14810706,
+        "checksum": "lnwnl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
